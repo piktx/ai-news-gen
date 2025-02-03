@@ -162,4 +162,4 @@ if generate_button:
 
 # Footer
 st.markdown("---")
-st.markdown("Built with CrewAI, Streamlit and powered by Cohere's Command R7B by Martin Khristi")
+st.markdown("Built with CrewAI, Streamlit and powered by Cohere's Command R7B by Piyush")
