@@ -42,5 +42,4 @@ graph TD
     C --> D[Data Verification]
     D --> E(Content Writer)
     E --> F[Article Structuring]
-    F --> G[Markdown Output]
-```
+    F --> G[Markdown Output]```
