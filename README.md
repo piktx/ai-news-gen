@@ -34,3 +34,13 @@ pip install -r requirements.txt
 # Set up environment variables
 echo "COHERE_API_KEY=your_cohere_key" > .env
 echo "SERPER_API_KEY=your_serper_key" >> .env
+
+```mermaid
+graph TD
+    A[User Input] --> B(Research Agent)
+    B --> C[Web Search]
+    C --> D[Data Verification]
+    D --> E(Content Writer)
+    E --> F[Article Structuring]
+    F --> G[Markdown Output]
+```
